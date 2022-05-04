@@ -23,7 +23,7 @@ setup(
     install_requires=[
         'Flask==0.10.1',
         'WTForms==2.0.2',
-        'Flask-Admin==1.2.0',
+        'Flask-Admin==1.5.3',
         'Flask-Bcrypt==0.6.2',
         'Flask-Login==0.2.11',
         'Flask-Mail==0.9.1',
